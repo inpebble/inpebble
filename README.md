@@ -1,17 +1,3 @@
-Of course! Here is the updated code, tailored to your new requirements.
-
-This version includes:
-
-A new, minimalist typing animation.
-
-A rewritten "About Me" section with a focus on Lua scripting.
-
-The "Skills" section now only displays the Lua icon.
-
-All GitHub stat cards, trophies, and counters have been removed for a cleaner look.
-
-Rewritten Code
-Generated markdown
 <h1 align="center">Hi 👋, My Name is inpebble</h1>
 <h2 align="center">Welcome to my Github Repo</h2>
 
