@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </a>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
+## <picture><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px"></picture> **About Me**
 
 I'm a developer with a deep passion for **Lua scripting** and its applications in game development and system integration. I enjoy tackling complex challenges and building efficient, clean, and maintainable code.
 
