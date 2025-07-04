@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=33FF33¢er=true&vCenter=true&width=435&lines=Lua+Scripter;Game+Developer;Passionate+Problem+Solver)](https://git.io/typing-svg)
 
 <a href="https://github.com/inpebble/">
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/master/assets/Images/developer.gif">
 </a>
 
 ## <picture><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px"></picture> **About Me**
