@@ -1,9 +1,3 @@
-Of course! Here is the code rewritten for your name "inpebble", with all social media links, connection sections, and support buttons removed for a cleaner look.
-
-All instances of the old username (mrdiamonddirt) in the stats links have been replaced with inpebble so they will work correctly for your profile.
-
-Rewritten Code
-Generated markdown
 <h1 align="center">Hi 👋, My Name is inpebble</h1>
 <h2 align="center">Welcome to my Github Repo</h2>
 
