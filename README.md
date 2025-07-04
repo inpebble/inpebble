@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is inpebble</h1>
-<h2 align="center">Welcome to my Github Repo</h2>
+<h2 align="center">Welcome to my Github</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=33FF33¢er=true&vCenter=true&width=435&lines=Lua+Scripter;Game+Developer;Passionate+Problem+Solver)](https://git.io/typing-svg)
 
