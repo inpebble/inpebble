@@ -13,7 +13,7 @@ I'm a developer with a deep passion for **Lua scripting** and its applications i
 
 - 🌱 I’m currently focused on advanced Lua projects and exploring game engine architecture.
 - 👯 I’m open to collaborating on open-source projects related to Lua or game development.
-- 📫 Feel free to reach out to me for project ideas or collaboration at: **youremail@example.com**
+- 📫 Feel free to reach out to me for project ideas or collaboration at: echorpfivem@gmail.com
 
 <br>
 
